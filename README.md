@@ -22,4 +22,4 @@ Rick and Morty Character Compass is a dynamic web application that fetches and d
 ## Technologies Used
 - **HTML5**: Used for the basic structure of the web page.
 - **CSS3**: Styled the character cards, ensuring a visually pleasing design.
-- **JavaScript (ES6)**: Handles the dynamic fetching and displaying of character data from the API.
+- **JavaScript**: Handles the dynamic fetching and displaying of character data from the API.
